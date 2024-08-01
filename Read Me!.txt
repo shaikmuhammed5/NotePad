@@ -1,0 +1,5 @@
+run these cmd in terminal
+
+
+npm install
+npm start
